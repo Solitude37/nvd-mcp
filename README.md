@@ -48,9 +48,11 @@ uv add mcp[cli] httpx
 
 ## 示例
 Without MCP -- False Result
+
 <img src='img/without_mcp.png' style="width:60%; height:auto;display:block; margin:auto;margin-top:20px; margin-bottom:20px;">
 
 With MCP -- Correct Result
+
 <img src='img/with_mcp.png' style="width:60%; height:auto;display:block; margin:auto;margin-top:20px; margin-bottom:20px;">
 
 ## 参考
