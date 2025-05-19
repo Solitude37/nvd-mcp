@@ -1,6 +1,7 @@
 # NVD CVE 查询工具
 
 (一次简陋的MCP尝试)
+
 本项目是一个基于 FastMCP 框架的 CVE（Common Vulnerabilities and Exposures）信息查询工具，支持通过 NVD（美国国家漏洞数据库）API 查询指定 CVE 编号的详细信息。
 
 ## 功能简介
@@ -49,11 +50,11 @@ uv add mcp[cli] httpx
 ## 示例
 Without MCP -- False Result
 
-<img src='img/without_mcp.png' style="width:60%; height:auto;display:block; margin:auto;margin-top:20px; margin-bottom:20px;">
+<img src='img/without_mcp.png' style="height:auto;display:block; margin:auto;margin-top:20px; margin-bottom:20px;">
 
 With MCP -- Correct Result
 
-<img src='img/with_mcp.png' style="width:60%; height:auto;display:block; margin:auto;margin-top:20px; margin-bottom:20px;">
+<img src='img/with_mcp.png' style="height:auto;display:block; margin:auto;margin-top:20px; margin-bottom:20px;">
 
 ## 参考
 
